@@ -1,7 +1,13 @@
-👋 Hi, I'm @richelljayCO
-🏫 I'm currently a 2nd year Computer Science student at Caraga State University
-📫 How to reach me: richelljaycolaljo@gmail.com
-😄 Pronouns: She/Her
+- 👋 Hi, I'm @richelljayCO
+- 🏫 I'm currently a 2nd year Computer Science student at Caraga State University
+- I’m passionate about tech and turning ideas into useful projects
+- I have hands-on experience with C, Python, HTML, CSS, JavaScript, and SQL
+- I've built systems and apps like Studify — a Spotify-inspired note management system
+- I’ve worked with PostgreSQL for backend data handling
+- I’m actively learning full-stack development using Flask and Tkinter
+- I’m preparing for remote tech jobs and open to collaboration on web dev or data projects
+- 📫 How to reach me: richelljaycolaljo@gmail.com
+- 😄 Pronouns: She/Her
 
 <!--
 **richelljayCo/richelljayCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
