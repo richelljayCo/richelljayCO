@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I'm @richelljayCO
+🏫 I'm currently a 2nd year Computer Science student at Caraga State University
+📫 How to reach me: richelljaycolaljo@gmail.com
+😄 Pronouns: She/Her
 
 <!--
 **richelljayCo/richelljayCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
